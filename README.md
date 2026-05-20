@@ -20,8 +20,8 @@ I'm a **Business Analytics postgraduate** based in Doha, Qatar, with a passion f
 | Project | Description | Tools |
 |---------|-------------|-------|
 [VaycayNation: TV Campaign Performance Analytics](https://github.com/haniyahsaleem/Vaycaynation_Tv_Analytics) | Statistical analysis of 123 TV ad airings to identify drivers of traffic lift using ANOVA and regression. Delivered optimisation strategy and projected €6.3k revenue per optimised airing | SPSS, Excel, PowerPoint |
-| [Call Performance Analysis](https://github.com/haniyahsaleem/Call_Performance_Analysis) | Dashboard analysing call centre resolution times, volumes, and rates across 3 locations | Tableau, Excel |
-| [Global Cruise Industry Analysis](https://github.com/haniyahsaleem/global-cruise-industry-analysis) | 4-part Tableau Story exploring the global cruise industry's post-COVID recovery, regional growth patterns, and destination trends using CLIA 2025 data | Tableau, Excel |
+| [Call Performance Analysis](https://github.com/haniyahsaleem/Call_Performance_Analysis) | Dashboard analysing call centre resolution times, volumes, and rates across 3 locations | Tableau, SQL, Excel |
+| [Global Cruise Industry Analysis](https://github.com/haniyahsaleem/global-cruise-industry-analysis) | 4-part Tableau Story exploring the global cruise industry's post-COVID recovery, regional growth patterns, and destination trends using CLIA 2025 data | Tableau, Python, Excel |
 
 ---
 
